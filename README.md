@@ -31,7 +31,8 @@ The next step is to add the server settings to ShareX.
 1. Open ShareX
 2. Go to **Destinations > Custom uploader settings**
 3. Select **New**
-4. Fill out the details. Name can be whatever you want, for **Destination Type**, select **Image Uploader and File Uploader (Optional)**. Method is **POST** and **Request URL** is your domain name. Under **Body** on **Name** set it to "secret" and **Value** to your secret key. Uder all of that is **File form name**, set it to "sharex"
+4. Fill out the details. Name can be whatever you want, for **Destination Type**, select **Image Uploader and File Uploader (Optional)**. Method is **POST** and **Request URL** is your domain name. Under **Body** on **Name** set it to "secret" and **Value** to your secret key. Uder all of that is **File form name**, set it to "sharex". Test if it all works!
+5. After you're done with the testing, go to **Destinations > Image Uploader > Custom image uploader**
+6. Enjoy!
 
-Make sure to test it! Thanks for all.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8AN8FK)
+Thanks for all. You can support me here: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8AN8FK)

@@ -32,6 +32,6 @@ if(isset($_POST['secret'])) {
     }
 }
 else {
-    echo 'No data recieved';
+    echo 'No data recieved. This is a ShareX Server, its open source, go check it out <a href="https://github.com/lanoow/sharex">here.</a>';
 }
 ?>

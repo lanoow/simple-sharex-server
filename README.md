@@ -34,3 +34,4 @@ The next step is to add the server settings to ShareX.
 4. Fill out the details. Name can be whatever you want, for **Destination Type**, select **Image Uploader and File Uploader (Optional)**. Method is **POST** and **Request URL** is your domain name. Under **Body** on **Name** set it to "secret" and **Value** to your secret key. Uder all of that is **File form name**, set it to "sharex"
 
 Make sure to test it! Thanks for all.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8AN8FK)

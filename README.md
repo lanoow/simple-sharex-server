@@ -1,11 +1,11 @@
 # A Simple PHP ShareX Server
 ![](https://img.shields.io/github/stars/lanoow/sharex.svg) ![](https://img.shields.io/github/forks/lanoow/sharex.svg) ![](https://img.shields.io/github/tag/lanoow/sharex.svg) ![](https://img.shields.io/github/release/lanoow/sharex.svg)
 
-####About
+About
 ----
 I was tired of using imgur and prnt.sc for screenshot hosting, so I researched in self-hosting a platform like that or something but it was either too complicated for my small brain or it was not worth it, so I decided to make one myself.
 
-####Installation
+Installation
 ----
 Lets start with the **Dependencies:**
 📡 NGINX

@@ -12,9 +12,9 @@ Lets start with the **Dependencies:**
 🏇 PHP 7.4 or newer (PHP 8 is recommended)
 
 Okay lets move to copying the repository to your machine
-`$ git clone https://github.com/lanoow/sharex.git`
+`$ git clone https://github.com/lanoow/simple-sharex-server.git`
 
-Open the repository folder, if on linux that would be `$ cd sharex/`
+Open the repository folder, if on linux that would be `$ cd simple-sharex-server/`
 After doing so, open index.php and edit the following
 
 	<?php
